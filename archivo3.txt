@@ -1,2 +1,2 @@
-Archivo de texo creado con comando cat 
+Archivo de texo creado con comando touch
 UwU
