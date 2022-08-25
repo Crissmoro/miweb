@@ -1,2 +1,3 @@
 practicando comandos touch, cat y subiendo actualizaciones sin ver apuntes.
 unu
+intenté ignorar este archivo con .gitignore pero no funciono alv
